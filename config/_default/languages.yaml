@@ -2,9 +2,18 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
+defaultContentLanguage: zh  # 建议如果你面国内大厂，默认设为中文
+hasCJKLanguage: true       # 开启中日韩文字支持
+languages:
+  zh:
+    languageName: 中文
+    contentDir: content/zh
+  en:
+    languageName: English
+    contentDir: content/en
 # Default language
-en:
-  languageCode: en-us
+#en:
+  #languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
