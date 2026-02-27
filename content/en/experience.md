@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      username: Isalie (Tie Pi)
+      username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
@@ -21,7 +21,7 @@ sections:
   - block: resume-skills
     content:
       title: Skills & Hobbies
-      username: Isalie (Tie Pi)
+      username: admin
   - block: resume-awards
     content:
       title: Awards
