@@ -1,5 +1,5 @@
 ---
-title: Isalie (Tie Pi)
+title: isalie
 role: Founder of THSU | Actuarial Science Student
 avatar_filename: avatar.jpg
 
