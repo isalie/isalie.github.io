@@ -56,7 +56,8 @@ languages:
           url: 'uploads/resume-en.pdf'
           weight: 50
 
-
+defaultContentLanguageInSubdir: true
+removePathAccents: true
 ############################
 ## PAGE OPTIONS
 ############################
