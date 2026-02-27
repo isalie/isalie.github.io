@@ -22,8 +22,7 @@ languages:
   en:
     languageName: English
     contentDir: content/en
-defaultContentLanguageInSubdir: true
-removePathAccents: true
+
 
 ############################
 ## PAGE OPTIONS
