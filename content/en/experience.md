@@ -25,9 +25,9 @@ sections:
   - block: resume-awards
     content:
       title: Awards
-      username: Isalie (Tie Pi)
+      username: admin
   - block: resume-languages
     content:
       title: Languages
-      username: Isalie (Tie Pi)
+      username: admin
 ---
