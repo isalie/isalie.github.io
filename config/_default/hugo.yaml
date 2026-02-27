@@ -8,12 +8,13 @@ title: '铁皮|Actuarial Science & Entrepreneurship '
 # Website URL
 baseURL: 'https://isalie.github.io/'
 
+
+
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh  # 建议如果你面国内大厂，默认设为中文
-hasCJKLanguage: true       # 开启中日韩文字支持
+
 languages:
   zh:
     languageName: 中文
@@ -23,6 +24,10 @@ languages:
     contentDir: content/en
 defaultContentLanguageInSubdir: true
 removePathAccents: true
+
+
+defaultContentLanguage: zh  # 建议如果你面国内大厂，默认设为中文
+hasCJKLanguage: true       # 开启中日韩文字支持
 
 ############################
 ## PAGE OPTIONS
