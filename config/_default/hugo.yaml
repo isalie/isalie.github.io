@@ -13,8 +13,8 @@ baseURL: 'https://isalie.github.io/'
 ############################
 ## LANGUAGE
 ############################
-defaultContentLanguage: zh
-hasCJKLanguage: true
+#defaultContentLanguage: zh
+#hasCJKLanguage: true
 languages:
   zh:
     languageName: 中文
