@@ -21,7 +21,7 @@ languages:
   en:
     languageName: English
     contentDir: content/en
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
