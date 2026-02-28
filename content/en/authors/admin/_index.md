@@ -1,6 +1,8 @@
 ---
 title: isalie
 role: Founder of THSU | Actuarial Science Student
+bio: A short summary for isalie's posts.
+
 avatar_filename: avatar.jpg
 
 organizations:
