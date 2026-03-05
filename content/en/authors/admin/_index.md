@@ -2,7 +2,7 @@
 title: isalie
 role: Founder of THSU | Actuarial Science Student
 bio: A short summary for isalie's posts.
-superuser: true  # 这一行非常关键，必须为 true
+# superuser: true  # 这一行非常关键，必须为 true
 
 avatar_filename: avatar.jpg
 
